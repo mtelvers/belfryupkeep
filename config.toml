@@ -1,0 +1,5 @@
+baseURL = 'https://mtelvers.github.io/belfryupkeep/'
+languageCode = 'en-us'
+title = 'Belfry Upkeep'
+theme = 'hugo-book'
+sidebar_search_disable = true
