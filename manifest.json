@@ -1,0 +1,15 @@
+{
+  "name": "Belfry Upkeep",
+  "short_name": "Belfry Upkeep",
+  "start_url": "/belfryupkeep/",
+  "scope": "/belfryupkeep/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/belfryupkeep/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
