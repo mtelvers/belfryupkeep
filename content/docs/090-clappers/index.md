@@ -208,12 +208,12 @@ The use of twiddle pins to correct an odd-struck bell is described in
 
 This Section deals with initial and regular checks of clappers. Routine
 checks and maintenance should be carried out in accordance with a
-schedule - see [Maintenance Schedule](/docs/150-maintenance-schedule) - and results of all checks,
+schedule - see [Maintenance Schedule](../150-maintenance-schedule) - and results of all checks,
 including issues raised and how they were resolved, should be recorded.
 
 For both practical and safety reasons, the checking and any subsequent
 maintenance must be carried out by at least two people, taking account
-of [Health & Safety Requirements](/docs/040-health-and-safety). The checks described
+of [Health & Safety Requirements](../040-health-and-safety). The checks described
 here can be carried out by a Typical Steeple Keeper and helpers on the
 more modern independent crown staple designs; checks on the older types
 of clapper suspension may require assistance from more experienced
